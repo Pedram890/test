@@ -1,0 +1,10 @@
+/* app global css */
+
+.my-card{
+  width: 100%;
+  max-width: 250px;
+  height:350px;
+}
+body{
+  background-color: rgb(218, 214, 214);
+}
